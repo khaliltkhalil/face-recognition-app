@@ -1,0 +1,10 @@
+.bounding-box {
+	position: absolute;
+	border: 3px solid blue;
+
+
+}
+.container {
+	position: relative;
+	width: 500px;
+}
